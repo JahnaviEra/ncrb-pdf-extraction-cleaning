@@ -9,7 +9,7 @@ This project automates scraping PDFs from the NCRB Accidental Deaths and Suicide
 Now, install the required dependencies using the requirements.txt file:
 -------->  pip install -r requirements.txt   <---------------
 
-**Task 1: Scrape the PDFs from NCRB Accidental Deaths & Suicides**
+## Task 1: Scrape the PDFs from NCRB Accidental Deaths & Suicides
 
 # Introduction
 This script scrapes the National Crime Records Bureau (NCRB) website for reports on accidental deaths and suicides in India.
@@ -41,7 +41,7 @@ Successfully downloaded PDFs
 Errors encountered during the download process
 Warnings if the webpage couldn't be fetched or no PDFs were found
 
-**Task 2:Clean and Combine the Incidence and Rate of Suicides Data**
+ ## Task 2:Clean and Combine the Incidence and Rate of Suicides Data
 
 # Introduction:
 This script processes multiple years of Incidence and Rate of Suicides data, 
