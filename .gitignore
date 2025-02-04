@@ -1,0 +1,9 @@
+# Ignore virtual environment folder
+env/
+# Ignore all .csv files
+*.csv
+# Ignore log files
+*.log
+# Ignore the folder
+all_ncrb_pdfs/
+cleaned_data/
